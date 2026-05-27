@@ -8,7 +8,7 @@ Business-focused analytics professional with 2+ years of experience managing P&L
 ## Portfolio Projects
 
 Employee Churn Analysis And Prediction
-* Built an end-to-end Employee Churn Prediction System using Python, achieving 97.5% F1-Score, and 98% ROC-AUC with Random Forest
+* Built an end-to-end Employee Churn Prediction Model using Python, achieving 97.5% F1-Score, and 98% ROC-AUC with Random Forest
 * Performed exploratory data analysis (EDA) to uncover key drivers such as satisfaction, workload, and tenure influencing attrition
 * Applied K-Means clustering to segment employees into behavioral groups (high-risk, overworked, underutilized)
 * Developed interactive Power BI dashboard to visualize attrition trends, risk segments, and workforce insights
